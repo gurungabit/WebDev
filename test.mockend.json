@@ -1,0 +1,12 @@
+{
+    transactionId: "int,
+    description: "string,
+    effectiveDate: "date,
+    worksheets: "int,
+    createdBy: "string,
+    createdOn: "date,
+    submittedBy: "string,
+    submittedOn: "date,
+    visible: "boolean,
+    archive: "boolean,
+},
